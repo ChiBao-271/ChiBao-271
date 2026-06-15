@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bao Thanh Thien</h1>
 
-<!--
-**ChiBao-271/ChiBao-271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Student+%7C+Vibe+Coder;Learning+Web+Development;Love+Coding+and+Building+Things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧊 About Me
+
+I'm a student. I enjoy Vibe coder.
+
+- 🌱 I’m currently learning **Web Development**
+- 💻 I like building small projects
+- 🎯 Goal: Become a better developer every day
+- ⚡ Fun fact: I love coding at night
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,java,git,python,vscode,vim,react,html,bootstrap,jquery,nodejs,mysql,ps,wordpress,tailwind,aws,docker,linux" />
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="YOUR_DISCORD_LINK">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 Badges
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
