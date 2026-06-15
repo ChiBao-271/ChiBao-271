@@ -31,7 +31,7 @@ I'm a student. I enjoy Vibe coder.
   <a href="YOUR_DISCORD_LINK">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ChiBao-271">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
