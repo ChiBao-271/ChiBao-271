@@ -20,7 +20,7 @@ I'm a student. I enjoy Vibe coder.
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,java,git,python,vscode,vim,react,html,bootstrap,jquery,nodejs,mysql,ps,wordpress,tailwind,aws,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,java,git,python,vscode,react,html,bootstrap,jquery,nodejs,mysql,ps,wordpress,tailwind,aws,docker" />
 </p>
 
 ---
