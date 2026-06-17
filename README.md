@@ -38,8 +38,3 @@ I'm a student. I enjoy Vibe coder.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</p>
